@@ -1,3 +1,5 @@
+package snakegame2;
+
 import javax.swing.JFrame;
 
 public class GameFrame extends JFrame{
